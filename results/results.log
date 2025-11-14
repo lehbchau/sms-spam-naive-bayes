@@ -1,0 +1,8 @@
+Model Performance:
+Number of training samples: 4459
+Number of testing samples: 1115
+Training Accuracy: 0.9935
+Testing Accuracy: 0.9865
+Training F1 Score: 0.9749
+Testing F1 Score: 0.9536
+TP: 154, TN: 946, FP: 5, FN: 10
