@@ -11,15 +11,15 @@ score** on the SMSSpamCollection dataset.
 
 ## Features
 
--   Custom implementation of **Naive Bayes** without sklearn\
+-   Custom implementation of **Naive Bayes** without sklearn
 -   Complete text preprocessing pipeline
-    -   lowercasing\
-    -   regex cleaning\
-    -   tokenization\
-    -   stemming\
-    -   stopword handling\
--   Laplace smoothing for probability estimation\
--   Log-probability computations for numerical stability\
+    -   lowercasing
+    -   regex cleaning
+    -   tokenization
+    -   stemming
+    -   stopword handling
+-   Laplace smoothing for probability estimation
+-   Log-probability computations for numerical stability
 -   Evaluation metrics (accuracy, precision, recall, F1, confusion
     matrix)
 
@@ -59,14 +59,14 @@ performance, and write results to `results/results.log`.
 
 ## Model Performance
 
--   **Training accuracy:** 99.35 percent\
--   **Training F1 score:** 97.49 percent\
--   **Testing accuracy:** 98.65 percent\
--   **Testing F1 score:** 95.36 percent\
+-   **Training accuracy:** 99.35 percent
+-   **Training F1 score:** 97.49 percent
+-   **Testing accuracy:** 98.65 percent
+-   **Testing F1 score:** 95.36 percent
 -   **Confusion matrix (test):**
-    -   True Positive: 154\
-    -   True Negative: 946\
-    -   False Positive: 5\
+    -   True Positive: 154
+    -   True Negative: 946
+    -   False Positive: 5
     -   False Negative: 10
 
 ## Dataset
@@ -76,6 +76,6 @@ messages.
 
 ## License
 
-This project is licensed under the **MIT License**.\
+This project is licensed under the **MIT License**.
 You are free to use, modify, and distribute this software with
 attribution.
